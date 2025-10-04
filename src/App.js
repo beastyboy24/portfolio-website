@@ -652,7 +652,7 @@ const Portfolio = () => {
                       </h3>
                     </div>
                     <p className="text-2xl text-gray-200 font-semibold mb-2">
-                      Desi QnA
+                      ITJOBXS
                     </p>
                   </div>
                   <div className="text-gray-400 mt-2 md:mt-0 md:text-right">
