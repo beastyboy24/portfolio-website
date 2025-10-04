@@ -782,7 +782,7 @@ const Portfolio = () => {
                 </div>
               </a>
               <a
-                href="https://www.linkedin.com/in/shubhamshekhar256/"
+                href="https://www.linkedin.com/in/shubham-s-036166210/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative"
